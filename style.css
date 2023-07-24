@@ -1,0 +1,333 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:border-box;
+}
+.navbar{
+    height: 56px;
+    background-color: #2874f0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.nav-logo{
+    height: 20px;
+    width: 80px;
+    background-color: transparent;
+}
+.logo{
+    
+    background-image: url("flipkart-plus_8d85f4\ \(1\).png");
+    background-size: cover;
+    height: 20px;
+    width: 100%;
+    margin-left: 80px;
+    background-color: transparent;
+}
+.nav-search{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 36px;
+    
+}
+.search-flipkart{
+    width:100%;
+    font-size: 1rem;
+    border: none;
+}
+.Search-icon{
+    display: flex;
+    align-items: center;
+     background-color: white;
+    color:#2874f0;
+    justify-content: center;
+    padding: 10px;
+    height: 16px;
+}
+.nav-login{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 32px;
+}
+.nav-second{
+    display: flex;
+    background-color:white;
+    color: #2874f0;
+    height: 30px;
+    align-items: center;
+    width: 122px;
+    justify-content: center;
+    font-weight: 700;
+}
+.nav-third{
+    font-weight: 700;
+}
+.more-select{
+    background-color: #2874f0;
+    border: none;
+    color: white;
+    font-weight: 800;
+    font-size: 14px;
+}
+.Shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:white;
+}
+.box{
+    display: flex;
+    height: 113px;
+    width:10%;
+    
+    padding: 10px 0px 15px;
+    justify-content: center;
+    align-items: center;
+}
+.box-img{
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+    width: 65px;
+    background-size: cover;
+    /* margin-top: 1rem;
+    margin-bottom: 1rem;
+ */
+ text-align: center;
+}
+.yash{
+    border: none;
+    color: #212121;
+    font-weight: bold;
+}
+.box-content p{
+    text-align: center;
+    border: none;
+    color: #212121;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+.hero-section{
+    background-image: url("main2.webp");
+    height: 280px;
+    background-size: cover;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: gray;
+   width: 100%;
+    
+}
+
+.next-sec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:white;
+}
+.f{
+    margin-top: 10px;
+    display: flex;
+    height:362px;
+    width:19.75%;
+    border: solid 2px white;
+    padding: 10px 0px 15px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color:white;
+
+}
+
+.div1-img{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 163px;
+    background-size: cover;
+    /* margin-top: 1rem;
+    margin-bottom: 1rem;
+ */
+ text-align: center;
+
+ 
+
+}
+.div1-img2{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    /* margin-top: 1rem;
+    margin-bottom: 1rem;
+ */
+ text-align: center;
+
+}
+.div1-img3{
+    justify-content: center;
+    align-items: center;
+    height: 170px;
+    width: 200px;
+    background-size: cover;
+    /* margin-top: 1rem;
+    margin-bottom: 1rem;
+ */
+ text-align: center;
+
+}
+.div1-img4{
+    justify-content: center;
+    align-items: center;
+    height: 154px;
+    width: 200px;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.c{
+    text-align: center;
+    margin-top: 10px;
+    color: #212121;
+    font-size: 1rem;
+    font-weight: 300;
+}
+.next-sec1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    
+}
+.div1-img5{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 133px;
+    background-size: cover;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.o{
+    text-align: center;
+    margin-top: 15px;
+    color: #388e3c;
+}
+.a{
+    display: flex;
+    background-color: #2874f0;
+    height: 30px;
+    width: 100px;
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.k{
+    font-size: 38px;
+    text-align: center;
+    
+}
+.r{
+    display: flex;
+    background-color: #2874f0;
+    height: 30px;
+    width: 100px;
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+     margin-left:40px ;
+    
+}
+.vai{
+    background-color: lightgray;
+}
+.div1-imga{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 168px;
+    background-size: cover;
+    margin-bottom: 10px;
+
+}
+.div1-imgb{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width:181px;
+    background-size: cover;
+    margin-bottom: 10px;
+
+
+}
+.div1-imgc{
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width:200px;
+    background-size: cover;
+    margin-bottom: 10px;
+
+}
+.div1-imgd{
+    justify-content: center;
+    align-items: center;
+    height: 197px;
+    width:200px;
+    background-size: cover;
+    margin-bottom: 10px;
+
+
+}
+.x{
+    color: #212121;
+    font-size: 0.85rem;
+    padding: 7px 0px 0px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 6px;
+}
+.div1-imgr{
+    justify-content: center;
+    align-items: center;
+    height: 102px;
+    width:200px;
+    background-size: cover;
+    margin-bottom: 100px;
+    
+}
+
+    .foot-panel2{
+        background-color: #222f3d;
+        color: #878787;
+        height: 400px;
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+    ul{
+        margin-top: 50px;
+    }
+    ul a{
+        color: white;
+        display: block;
+        font-size: 14px;
+        margin: 8px;
+       
+        
+    }
+    .foot-panel3{
+        height: 50px;
+        background-color: #222f3d;
+        border-top: 0.5px solid white;
+        color: white;
+        text-align: center;
+        
+    }
